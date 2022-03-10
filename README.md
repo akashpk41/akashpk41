@@ -6,7 +6,7 @@ Iam currently learning world most favourite programing language JAVASCRIPT .
 
 Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
