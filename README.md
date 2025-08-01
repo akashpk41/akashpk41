@@ -1,76 +1,68 @@
-<!-- Gradient animation style -->
-<style>
-@keyframes gradientAnimation {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-.gradient-text {
-  background: linear-gradient(270deg, #00BFFF, #8A2BE2, #FF69B4, #00BFFF);
-  background-size: 800% 800%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradientAnimation 15s ease infinite;
-}
-.icon-animate:hover {
-  transform: scale(1.2);
-  transition: transform 0.3s ease;
-}
-</style>
-
-<h1 align="center">
-  <span class="gradient-text">Hi 👋, I'm Akash PK</span>
-</h1>
-
-<h3 align="center" style="font-weight: 600; color: #555;">
-  🚀 A Passionate <span style="color:#8A2BE2;">MERN Stack Developer</span> from Bangladesh
-</h3>
-
-- 🔭 I’m currently working on **my dream project**
-
-- 🌱 I’m currently learning **MongoDB**
-
-- 👨‍💻 All my projects are available at [https://akash-pk.netlify.app/](https://akash-pk.netlify.app/)
-
-- 📝 I regularly write articles on [https://akash-pk.netlify.app/blogs](https://akash-pk.netlify.app/blogs)
-
-- 💬 Ask me about **React, Node.js, Express.js**
-
-- 📫 How to reach me: **akashpk84100@gmail.com**
-
-- ⚡ Fun fact: **Self Learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" /></a>
-<a href="https://linkedin.com/in/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
-<a href="https://stackoverflow.com/users/18385837/akash-pk" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" /></a>
-<a href="https://fb.com/atapk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" /></a>
-<a href="https://instagram.com/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" /></a>
-<a href="https://medium.com/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40" /></a>
-<a href="https://www.hackerrank.com/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" /></a>
-<a href="https://www.hackerearth.com/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" height="40" /></a>
-<a href="https://discord.gg/akashpk41" target="_blank" class="icon-animate"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-</p>
+<h1 align="center">Hi 👋, I'm Akash PK</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpk41&show_icons=true&locale=en&layout=compact" alt="akashpk41" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Lover+💙;Self+Taught+and+Always+Learning;Let%27s+build+something+amazing!" alt="Typing SVG" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **my dream project**
+- 🌱 Currently learning **MongoDB deeply**
+- 🛠️ Exploring the world of **Full Stack Web Development**
+- 📝 Regularly writing at [My Blog](https://akash-pk.netlify.app/blogs)
+- 🎯 Ask me about **React, Node.js, Express.js**
+- 📫 Reach me at: **akashpk84100@gmail.com**
+- ⚡ Fun fact: *I'm a curious self-learner & problem solver*
+
+---
+
+### 🌐 My Portfolio
+
+- 🌍 Visit my portfolio: [akash-pk.netlify.app](https://akash-pk.netlify.app/)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/akashpk41" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/akashpk41" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/18385837/akash-pk" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://medium.com/@akashpk41" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/akashpk41" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.instagram.com/akashpk41" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpk41&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+---
+
+> 💬 *"Code, Create & Connect — That's the Developer's Way!"*
+
+---
