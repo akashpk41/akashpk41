@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash PK</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from Bangladesh</h3>
 
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Lover+💙;Self+Taught+and+Always+Learning;Let%27s+build+something+amazing!" alt="Typing SVG" />
-</p>
+</h2>
 
 ---
 
