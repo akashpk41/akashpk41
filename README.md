@@ -1,45 +1,40 @@
+<!-- ========================= HEADER ========================= -->
 <h1 align="center">Hi 👋, I'm Akash PK</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashpk41&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- ========================= INTRO ANIMATION ========================= -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Lover+💙;Self+Taught+and+Always+Learning;Let%27s+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Lover+💙;Self+Taught+and+Always+Learning;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </h2>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **my dream project**
-- 🌱 Currently learning **MongoDB deeply**
-- 🛠️ Exploring the world of **Full Stack Web Development**
-- 📝 Regularly writing at [My Blog](https://akash-pk.netlify.app/blogs)
-- 🎯 Ask me about **React, Node.js, Express.js**
-- 📫 Reach me at: **akashpk84100@gmail.com**
-- ⚡ Fun fact: *I'm a curious self-learner & problem solver*
+## 👨‍💻 Professional Introduction
+I am a self-taught **MERN Stack Developer** specializing in building scalable, high-performance, and user-friendly web applications.  
+Passionate about learning new technologies, solving real-world problems, and writing clean, maintainable code.
 
 ---
 
-### 🌐 My Portfolio
-
-- 🌍 Visit my portfolio: [akash-pk.netlify.app](https://akash-pk.netlify.app/)
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/akashpk41" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/akashpk41" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/18385837/akash-pk" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://medium.com/@akashpk41" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/akashpk41" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.instagram.com/akashpk41" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+## 🎯 Current Status & Goals
+- 🔭 Currently working on **My Dream Project**
+- 🌱 Deep diving into **MongoDB & Backend Optimization**
+- 🤝 Open to collaborate on **Full-Stack Projects**
+- 💡 Always looking to improve **UI/UX** skills
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🏆 Badges & Current Status
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/Always%20Learning-blue?style=for-the-badge)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge)
 
+---
+
+## 🛠️ Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -49,20 +44,70 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Pinned Projects
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=akashpk41&repo=project1&theme=react)](https://github.com/akashpk41/rohan-raka-portfolio-v3-client)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=akashpk41&repo=project2&theme=react)](https://github.com/akashpk41/fifa-fan-squad-2026)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpk41&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+---
+
+## 📊 Coding Streaks & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashpk41&theme=tokyonight" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashpk41&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpk41&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashpk41&theme=react-dark)
+
+---
+
+## 🏅 GitHub Achievements & Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashpk41&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🐍 Animated Contribution Snake
+![Snake animation](https://github.com/akashpk41/akashpk41/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 Skills Graph
+![Skills Graph](https://github-readme-stats.vercel.app/api/top-langs?username=akashpk41&show_icons=true&locale=en&layout=pie)
+
+---
+
+## 💡 Dynamic Programming Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🎭 Fun Facts
+- ☕ Coffee powers my code
+- 🌙 Night owl developer
+- 💡 Always curious, always experimenting
+
+---
+
+## 🔗 Connect With Me
+<p>
+  <a href="https://akash-pk.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akashpk441" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/atapk41/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:akashpk741@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 > 💬 *"Code, Create & Connect — That's the Developer's Way!"*
-
----
