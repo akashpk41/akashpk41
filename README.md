@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Akash PK</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashpk41&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <!-- ========================= INTRO ANIMATION ========================= -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Lover+💙;Self+Taught+and+Always+Learning;Let's+Build+Something+Amazing!" alt="Typing SVG" />
@@ -49,12 +45,6 @@ Passionate about learning new technologies, solving real-world problems, and wri
 
 ---
 
-## 📌 Pinned Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=akashpk41&repo=project1&theme=react)](https://github.com/akashpk41/rohan-raka-portfolio-v3-client)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=akashpk41&repo=project2&theme=react)](https://github.com/akashpk41/fifa-fan-squad-2026)
-
----
-
 ## 📊 Coding Streaks & Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashpk41&theme=tokyonight" alt="streak" />
@@ -77,19 +67,30 @@ Passionate about learning new technologies, solving real-world problems, and wri
 ---
 
 ## 🐍 Animated Contribution Snake
-![Snake animation](https://github.com/akashpk41/akashpk41/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/akashpk41/akashpk41/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 Skills Graph
-![Skills Graph](https://github-readme-stats.vercel.app/api/top-langs?username=akashpk41&show_icons=true&locale=en&layout=pie)
+## ⏳ WakaTime Stats (Weekly Coding Activity)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-## 💡 Dynamic Programming Quote
+## 😂 Developer Joke
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 </p>
+
+---
+
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/akashpk41?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FDhaka)
+
+---
+
+## 🌀 3D Contribution Calendar
+![3D Calendar](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/docs/demo/profile-season-animate.svg)
 
 ---
 
