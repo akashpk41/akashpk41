@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Professional Introduction  
+## 👨‍💻 My Introduction  
 I am a self-taught **MERN Stack Developer** specializing in building scalable, high-performance, and user-friendly web applications. Passionate about learning new technologies, solving real-world problems, and writing clean, maintainable code.
 
 ---
@@ -51,6 +51,7 @@ I am a self-taught **MERN Stack Developer** specializing in building scalable, h
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Always%20Learning-blue?style=for-the-badge" />
+  <br>
   <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge" />
 </p>
 
@@ -97,5 +98,5 @@ I am a self-taught **MERN Stack Developer** specializing in building scalable, h
 <p align="center">
   💬 *"Code, Create & Connect — That's the Developer's Way!"*  
   <br>
-  <sub>— Crafted with ❤️ by Akash PK</sub>
+  <h1>— Crafted with ❤️ by Akash PK</h1>
 </p>
