@@ -23,13 +23,6 @@ Passionate about learning new technologies, solving real-world problems, and wri
 
 ---
 
-## 🏆 Badges & Current Status
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/Always%20Learning-blue?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge)
-
----
-
 ## 🛠️ Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -44,6 +37,15 @@ Passionate about learning new technologies, solving real-world problems, and wri
 </p>
 
 ---
+
+
+## 🏆 Badges & Current Status
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/Always%20Learning-blue?style=for-the-badge)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge)
+
+---
+
 
 ## 📊 Coding Streaks & Stats
 <p align="center">
@@ -70,24 +72,7 @@ Passionate about learning new technologies, solving real-world problems, and wri
 ![Snake animation](https://raw.githubusercontent.com/akashpk41/akashpk41/output/github-contribution-grid-snake.svg)
 
 ---
-
-## ⏳ WakaTime Stats (Weekly Coding Activity)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 😂 Developer Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
-</p>
-
----
-
-## 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/akashpk41?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FDhaka)
-
----
+-
 
 ## 🌀 3D Contribution Calendar
 ![3D Calendar](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/docs/demo/profile-season-animate.svg)
