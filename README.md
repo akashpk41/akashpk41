@@ -98,5 +98,5 @@ I am a self-taught **MERN Stack Developer** specializing in building scalable, h
 <p align="center">
   💬 *"Code, Create & Connect — That's the Developer's Way!"*  
   <br>
-  <h1>— Crafted with ❤️ by Akash PK</h1>
+  <p>— Crafted with ❤️ by Akash PK</p>
 </p>
