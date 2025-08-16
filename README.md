@@ -1,7 +1,11 @@
 <!-- ========================= HEADER ========================= -->
-<h1 align="center">Hi 👋, I'm Akash PK</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from Bangladesh</h3>
-
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Akash PK
+</h1>
+<h3 align="center">
+  🚀 A Passionate MERN Stack Developer from  
+   <img src="https://flagcdn.com/w20/bd.png" width="20"/>  Bangladesh
+</h3>
 <!-- ========================= INTRO ANIMATION ========================= -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Lover+💙;Self+Taught+and+Always+Learning;Let's+Build+Something+Amazing!" alt="Typing SVG" />
@@ -9,7 +13,7 @@
 
 ---
 
-## 👨‍💻 My Introduction  
+## 👨‍💻 About Me  
 I am a self-taught **MERN Stack Developer** specializing in building scalable, high-performance, and user-friendly web applications. Passionate about learning new technologies, solving real-world problems, and writing clean, maintainable code.
 
 ---
